@@ -1,0 +1,21 @@
+﻿  Ente.cpp
+  Entidade.cpp
+  Fase.cpp
+  Fase1.cpp
+  Fase2.cpp
+  GerenciadorColisao.cpp
+  GerenciadorEventos.cpp
+  Inimigo.cpp
+C:\Users\enzow\OneDrive\Documentos\Jogo - Copia\Projeto\Projeto\Jogo\Entidades\Personagens\Inimigos\Inimigo.cpp(14,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Jogador.cpp
+  ListaEntidade.cpp
+C:\Users\enzow\OneDrive\Documentos\Jogo - Copia\Projeto\Projeto\Jogo\Listas\Lista.h(165,44): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\enzow\OneDrive\Documentos\Jogo - Copia\Projeto\Projeto\Jogo\Listas\Lista.h(160,39): message : ao compilar a função de membro 'void Jogo::Listas::Lista<Jogo::Entidades::Entidade>::limparLista(void)' do modelo da classe
+C:\Users\enzow\OneDrive\Documentos\Jogo - Copia\Projeto\Projeto\Jogo\Listas\ListaEntidade.cpp(19,17): message : veja a primeira referência a 'Jogo::Listas::Lista<Jogo::Entidades::Entidade>::limparLista' em 'Jogo::Listas::ListaEntidade::limparLista'
+C:\Users\enzow\OneDrive\Documentos\Jogo - Copia\Projeto\Projeto\Jogo\Listas\ListaEntidade.h(13,31): message : consulte a referência à instanciação 'Jogo::Listas::Lista<Jogo::Entidades::Entidade>' do modelo da classe que está sendo compilada
+  main.cpp
+  Obstaculo.cpp
+  Personagem.cpp
+  Principal.cpp
+  Gerando Código...
+  Projeto.vcxproj -> C:\Users\enzow\OneDrive\Documentos\Jogo - Copia\Projeto\x64\Debug\Projeto.exe
